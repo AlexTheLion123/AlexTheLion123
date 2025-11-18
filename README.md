@@ -1,4 +1,4 @@
-<img width="1131" height="1600" alt="image" src="https://github.com/user-attachments/assets/cceae428-aad3-4cf9-b8eb-a767ef077c41" />### Hi there 👋
+### Hi there 👋
 
 - I'm currently a blockchain developer with experience in EVM and Solana. I focus on frontend and anything web3 related except smart contracts (although I want to learn)
 - I'm a cofounder of [pinwin.xyz](pinwin.xyz), a sports-betting interface built on Solana and other EVM chains
