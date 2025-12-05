@@ -3,6 +3,7 @@
 - Full-stack engineer specializing in React, React Native, and AWS-based backends.
 - I'm a cofounder of [pinwin.xyz](https://pinwin.xyz), a real-time sports-betting interface built on Solana and EVM chains.
 - I'm lead engineer of [Speed Wallet](https://play.google.com/store/apps/details?id=com.alexthelion123.boltexponativewind), a production-ready Solana mobile wallet with virtual card support, built using React Native and a serverless AWS backend.
+- 🔥 Built [Quickbook](https://main.d12hmt15z4iuqe.amplifyapp.com/), an AI-assisted ebook reader with semantic search, adaptive tests, and a custom study flow.
 - 🔭 I’ve previously made extensive contributions to the open source Python codebase for [Trading Strategy](https://tradingstrategy.ai/)
 - I've also worked as a Dune analyst before. See my Dune profile [here](https://dune.com/alexth)
 - 🌱 Currently deepening expertise in indexing pipelines (Envio/Substreams), GraphQL APIs, and high-performance front-end engineering.
